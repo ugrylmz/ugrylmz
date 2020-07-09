@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/uguryilmaz235/uguryilmaz235/master/gif/welcome.gif" alt="Welcome">
 
 <!--
 **uguryilmaz235/uguryilmaz235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
