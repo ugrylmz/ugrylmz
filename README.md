@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 
 [![msx752's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugrylmz&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=dark)](https://github.com/ugrylmz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrylmz&exclude_repo=LibraryManagementSystem,MEOWORNOTT,Loading,MonovaConsole,Find-Follow-Vessel,ugur-The-Complete-Web-Developer-Course,learn-php&layout=compact&langs_count=6&theme=dark)](https://github.com/ugrylmz)
-<p align="left">
-<img width="150" height="150" src="https://raw.githubusercontent.com/uguryilmaz235/uguryilmaz235/master/gif/welcome.gif" alt="Welcome">
-</p>
