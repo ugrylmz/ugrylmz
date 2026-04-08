@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently building **ALERAGO (B2B Hotel Reservation Platform)**
+- 🔭 I’m currently building **ALERATO (B2B Hotel Reservation Platform) alerato.com**
 
 - 🧩 I work with **React Native, React, TypeScript/JavaScript, .NET, PostgreSQL**
 
