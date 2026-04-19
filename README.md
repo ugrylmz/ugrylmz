@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Uğur YILMAZ</h1>
 <h3 align="center">Software Engineer (Mobile + Backend) from Istanbul</h3>
 
+<p align="center">
+  <em><b>"For the builders, not the bystanders. Echoes bounce off walls built by others."</b></em>
+</p>
+
 <p align="left">
   <a href="https://twitter.com/benuguryilmaz" target="blank">
     <img src="https://img.shields.io/twitter/follow/benuguryilmaz?logo=twitter&style=for-the-badge" alt="benuguryilmaz" />
@@ -24,9 +28,7 @@
 <h3 align="left">Recent Experience:</h3>
 
 - **Software Engineer @ OBSS** (Feb 2024 - Jul 2025, Remote, Istanbul)  
-  - Delivered the official **eTechlog Mobile App for Turkish Airlines**, live onboard **TC-JMH**  
-  - **Offline-first** architecture with **React Native + React Native for Windows**, **TypeORM + SQLite**  
-  - Reliable sync via **React Query**, dynamic validation with **Formik**, aviation-grade quality focus  
+  - Delivered the official **eTechlog Mobile App for Turkish Airlines**, live onboard **TC-JMH** - **Offline-first** architecture with **React Native + React Native for Windows**, **TypeORM + SQLite** - Reliable sync via **React Query**, dynamic validation with **Formik**, aviation-grade quality focus  
   - Client: **Turkish Airlines** (via OBSS)
 
 - **Software Engineer @ Digiturk, beIN MEDIA GROUP** (Apr 2020 - Feb 2024, Istanbul)  
@@ -52,7 +54,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Core -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
@@ -66,7 +67,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-  <!-- Backend -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -77,7 +77,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 
-  <!-- Data -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -88,7 +87,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
   </a>
 
-  <!-- Cloud / Tools -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
